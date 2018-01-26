@@ -1,5 +1,5 @@
 #
-# Simple, full asynchronous Libevent-based, pink-like programs
+# Simple, full asynchronous Libevent-based, ping-like programs
 #
 # Copyright (C) 2009-2016 Rocco Carbone <rocco@tecsiel.it>
 #
